@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="xiaomi-unicorn/device_xiaomi_unicorn" path="device/xiaomi/unicorn" remote="github" revision="pep13"/>
-  <project name="xiaomi-unicorn/vendor_xiaomi_unicorn" path="vendor/xiaomi/unicorn" remote="github" revision="pep13"/>
+  <project name="Fauxly/device_xiaomi_unicorn" path="device/xiaomi/unicorn" remote="github" revision="pep13"/>
+  <project name="Fauxly/vendor_xiaomi_unicorn" path="vendor/xiaomi/unicorn" remote="github" revision="pep13"/>
+  <project name="Fauxly/kernel_xiaomi_unicorn" path="kernel/xiaomi/unicorn" remote="github" revision="mayfly-s-oss"/>
   <project name="xiaomi-unicorn/patches" path="patches" remote="github" revision="pep13"/>
   <project name="xiaomi-unicorn/vendor_xiaomi_unicorn_images" path="vendor/xiaomi/unicorn/images" remote="gitlab" revision="master"/>
 </manifest>
-
